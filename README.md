@@ -13,34 +13,15 @@
 
 ---
 
-### 🔨 Highlight Projects
-- 🥗 [Diet Recommendation System](https://github.com/jaiswar12344/Diet-Recommendation)  
-  ML-powered personalized diet planner using Streamlit and deployed on Hugging Face Spaces
-
-- 😊 [Emotion Detection using CNN](https://github.com/jaiswar12344/Emotion-Detection)  
-  Facial emotion recognition with VGGNet & ResNet50 on FER2013 dataset
-
-- ❤️ [Heart Stroke Prediction](https://github.com/jaiswar12344/stroke)  
-  Achieved 96.54% accuracy using pipelines, feature engineering, and transformers
-
-- 🏃‍♂️ [Player Re-Identification (YOLO)](https://github.com/jaiswar12344/Player-Re-ID)  
-  Object detection and player re-identification from sports videos using YOLOv8
-
----
-
 ### ⚙️ Tech & Tools
 
-#### 👨‍💻 Programming & ML:
-`Python` | `Scikit-learn` | `Pandas` | `NumPy` | `OpenCV` | `TensorFlow` | `Keras`
+#### 👨‍💻 `Python` | `Scikit-learn` | `Pandas` | `NumPy` | `OpenCV` | `TensorFlow` | `Keras`
 
-#### 📊 Data Analytics & BI:
-`Power BI` | `Tableau` | `Matplotlib` | `Seaborn` | `Data Visualization` | `ETL/ELT Pipelines`
+#### 📊 `Power BI` | `Tableau` | `Matplotlib` | `Seaborn` | `Data Visualization` | `ETL/ELT Pipelines`
 
-#### 🧠 ML/NLP Specialization:
-`CNN` | `LSTM` | `Transfer Learning` | `Text Analysis` | `YOLO` | `Streamlit` | `Flask`
+#### 🧠 `CNN` | `LSTM` | `Transfer Learning` | `Text Analysis` | `YOLO` | `Streamlit` | `Flask`
 
-#### 🗄️ Data & Deployment:
-`SQL` | `Git` | `Hugging Face Spaces` | `Jupyter Notebooks` | `VS Code` | `Google Colab`
+#### 🗄️ `SQL` | `Git` | `Hugging Face Spaces` | `Jupyter Notebooks` | `VS Code` | `Google Colab`
 
 ---
 
@@ -52,9 +33,9 @@
 ---
 
 ### 📫 Connect with Me
-- 💼 [LinkedIn](https://github.com/jaiswar12344) *(update this if needed)*
+- 💼 [LinkedIn](https://github.com/jaiswar12344)
 - 📧 rohanjaiswar123@gmail.com
-- 🗂️ [Portfolio (optional)](datascienceportfol.io/jaiswarrohan38)
+- 🗂️ [Portfolio](datascienceportfol.io/jaiswarrohan38)
 
 ---
 
