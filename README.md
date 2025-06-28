@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Rohan Jaiswar
 
-🎓 Data Science Student | 💻 Machine Learning Engineer at Feynn Labs | 📊 Ex-Data Science Intern at Intern Infotech  
-📍 India | 🌐 Passionate about solving real-world problems using AI & Data
+🎓 Data Science Enthusiast  
+📍 India | 🌐 Passionate about leveraging AI and data to solve real-world problems
 
 ---
 
@@ -25,16 +25,9 @@
 
 ---
 
-### 📈 Certifications
-- ✅ FreeCodeCamp Data Science with Python
-- ✅ Udemy: Machine Learning 
-- ✅ Deep Learning Specialization 
-
----
-
 ### 📫 Connect with Me
 - 💼 [LinkedIn](https://github.com/jaiswar12344)
-- 📧 rohanjaiswar123@gmail.com
+- 📧 [Gmail]('jaiswarrohan38@gmail.com')
 - 🗂️ [Portfolio](datascienceportfol.io/jaiswarrohan38)
 
 ---
