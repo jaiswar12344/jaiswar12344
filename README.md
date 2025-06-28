@@ -13,13 +13,9 @@
 
 ---
 
-### ⚙️ Tech & Tools
-
-### 💻 Programming & Tools
+### ⚙️ Technologies & Tools
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-### 🤖 Machine Learning & AI
 
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-blue?style=for-the-badge)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-purple?style=for-the-badge)
@@ -28,21 +24,15 @@
 ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-### 📊 Data Analytics & Visualization
-
 ![Data Analysis](https://img.shields.io/badge/Data_Analysis-red?style=for-the-badge)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-00CED1?style=for-the-badge)
 
-### 🌐 Web & Deployment
-
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge&logo=huggingface&logoColor=black)
-
-### 🗄️ Database & ETL
 
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
